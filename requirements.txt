@@ -1,0 +1,7 @@
+flask
+python-dotenv
+pinecone-client
+openai
+python-docx
+langchain
+langsmith
